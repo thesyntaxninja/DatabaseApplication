@@ -1,0 +1,9 @@
+﻿<Window x:Class="DatabaseApplication.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="300" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="249" Width="272"><Run Text="Add Item: This is where you add a new customer to the database."/><LineBreak/><Run Text="** ID must be less than 5 digits"/><LineBreak/><Run/><LineBreak/><Run Text="Delete Record: You can delete a record from the database here. "/><LineBreak/><Run Text="** You must enter the ID of the customer you wish to delete"/><LineBreak/><Run/><LineBreak/><Run Text="Edit Record: In this part of the application you can edit a record. "/><LineBreak/><Run Text="** You must enter the ID of the customer you wish to edit for lookup. You can then edit everything but the unique ID. "/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Window>

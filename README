@@ -1,0 +1,6 @@
+The purpose of this problem sets is to give you practical experience with the creating a GUI application in a form.
+ 
+After you have completed these problem, you will have built a program that is a C# Windows application 
+The application will be forms based and will use a panel, radio buttons and group boxes.
+The user will be able to draw shapes with a pen in the panel.  The radio buttons will control the pen color and pen size.  If a user changes the color or the size with the radio buttons, the panel needs to reflect this change.
+When the user minimizes the screen your program must “remember” the shapes that have been drawn.   This means you must store the coordinates of the drawing, and repaint them when the screen is invalidated
