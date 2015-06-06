@@ -1,7 +1,7 @@
-The purpose of this problem sets is to give you practical experience with the creating a Microsoft Presentation Foundation Application and use Linq to access a real database
+The purpose of this problem is to give you practical experience with the creating a Microsoft Presentation Foundation Application and Linq to access a real database
 
  
-After you have completed these problem, you will have built a program that is a C# WPF application 
+After you have completed the problem, you will have built a program that is a C# WPF application 
 The application will have Linq code to a working database (Customers)
 Your application will have WPF controls 
 You will be able to view all customer records in the database table.
